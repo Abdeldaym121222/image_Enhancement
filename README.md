@@ -8,3 +8,4 @@ in image processing, various techniques are used to manipulate and analyze image
 3- Adaptive Histogram Equalization
 4- gamma correction
 
+![vit_figure](https://github.com/user-attachments/assets/a06b34ed-55e5-4e9f-abac-4191e3df8bca)
