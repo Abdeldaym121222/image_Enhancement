@@ -7,5 +7,9 @@ in image processing, various techniques are used to manipulate and analyze image
 2- Contrast-stretched image
 3- Adaptive Histogram Equalization
 4- gamma correction
+5- High Pass filter
+6- bilateral filter
+7- Enhancement with HSV Adjustment
+8- unsharp masking
 
-![vit_figure](https://github.com/user-attachments/assets/a06b34ed-55e5-4e9f-abac-4191e3df8bca)
+![vit_figure](https://github.com/Abdeldaym121222/image_Enhancement/blob/main/image.PNG)
